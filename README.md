@@ -5,5 +5,5 @@
 - Husker STEM VR WebGL App: https://www.huskerstemvr.com/app
 - Download Links for Oculus Quest, iOS, Android, and Web App: https://www.huskerstemvr.com/download/
 
-![Husker STEM VR Scoreboard](img/Scoreboard.png)
-##### Figure 1: Husker STEM VR Scoreboard
+![Husker STEM VR Feature Graphic](img/Feature_Graphic.png)
+##### Figure 1: Husker STEM VR Feature Graphic
